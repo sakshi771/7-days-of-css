@@ -13,3 +13,6 @@
 
 <b>Day 5 :</b>
 ![](https://github.com/sakshi771/7-days-of-css/blob/master/Screenshots/SS5.png)
+
+<b>Day 6 :</b>
+![](https://github.com/sakshi771/7-days-of-css/blob/master/Screenshots/SS6.png)
